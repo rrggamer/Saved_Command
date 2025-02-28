@@ -1,0 +1,7 @@
+#Git Setting#
+git init # Make .git
+git remote add origin <your-github-repo-url> # Add Github Repo to .git
+git remote -v # Check Remote Repo
+git branch -M main  # Rename branch to main (if needed)
+
+
