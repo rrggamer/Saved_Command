@@ -1,3 +1,8 @@
+#Git Config#
+git config --global user.name "John"
+git config --global user.email "John@John.com"
+
+
 #Git Setting#
 git init # Make .git
 git remote add origin <your-github-repo-url> # Add Github Repo to .git
